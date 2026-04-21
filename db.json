@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin1",
+      "email": "admin@gmail.com",
+      "password": "Admin123",
+      "role": "admin"
+    },
+    {
+      "id": "297e",
+      "name": "רחל גרינשטיין",
+      "email": "r0583262119@gmail.com",
+      "password": "Rg123456",
+      "role": "user"
+    },
+    {
+      "id": "5e0b",
+      "name": "שרה כהן",
+      "email": "sari@gmail.com",
+      "password": "Sc123456",
+      "role": "user"
+    },
+    {
+      "id": "38d6",
+      "name": "חחחחחחחח",
+      "email": "fdfd@gmail.com",
+      "password": "Ss1234567",
+      "role": "user"
+    },
+    {
+      "id": "e823",
+      "name": "שרה לוי",
+      "email": "sarig997@gmail.com",
+      "password": "Sl123456",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "name": "סרום ויטמין C",
+      "price": 120,
+      "category": "Serums",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=300",
+      "salesCount": 42
+    },
+    {
+      "id": "fa7e",
+      "name": "קרם הגנה מהשמש",
+      "price": 130,
+      "category": "Sunscreen",
+      "image": "https://www.dr-riva.com/cdn/shop/files/SunscreenBottleBox.png?v=1743946890&width=800",
+      "salesCount": 0
+    },
+    {
+      "id": "5",
+      "name": "מסכת פנים מזינה",
+      "price": 65,
+      "category": "Face",
+      "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=300",
+      "salesCount": 28
+    },
+    {
+      "id": "6",
+      "name": "קרם עיניים אנטי אייג'ינג",
+      "price": 145,
+      "category": "Face",
+      "image": "https://images.unsplash.com/photo-1570554886111-e80fcca6a029?w=300",
+      "salesCount": 33
+    },
+    {
+      "id": "7",
+      "name": "Serum",
+      "price": 110,
+      "category": "Serums",
+      "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=300",
+      "salesCount": 56
+    },
+    {
+      "id": "8",
+      "name": "קרם לילה מחדש",
+      "price": 95,
+      "category": "Face",
+      "image": "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=300",
+      "salesCount": 41
+    },
+    {
+      "id": "9",
+      "name": "תחליב גוף מועשר",
+      "price": 75,
+      "category": "Body",
+      "image": "https://images.unsplash.com/photo-1556229010-aa9e5d93b28b?w=300",
+      "salesCount": 22
+    },
+    {
+      "id": "10",
+      "name": "סקראב פנים מקלף",
+      "price": 58,
+      "category": "Face",
+      "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=300",
+      "salesCount": 19
+    },
+    {
+      "id": "11",
+      "name": "סרום רטינול",
+      "price": 155,
+      "category": "Serums",
+      "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=300",
+      "salesCount": 67
+    },
+    {
+      "id": "12",
+      "name": "קרם BB מגן",
+      "price": 88,
+      "category": "Sunscreen",
+      "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=300",
+      "salesCount": 31
+    },
+    {
+      "id": "13",
+      "name": "שמן ארגן לפנים",
+      "price": 125,
+      "category": "Serums",
+      "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=300",
+      "salesCount": 45
+    },
+    {
+      "id": "14",
+      "name": "קרם ידיים מרכך",
+      "price": 42,
+      "category": "Body",
+      "image": "https://images.unsplash.com/photo-1585652757173-57de5e9fab42?w=300",
+      "salesCount": 38
+    },
+    {
+      "id": "16",
+      "name": "קרם הגנה SPF 50",
+      "price": 98,
+      "category": "Sunscreen",
+      "image": "https://images.unsplash.com/photo-1576426863848-c21f53c60b19?w=300",
+      "salesCount": 52
+    },
+    {
+      "id": "17",
+      "name": "סרום ניאצינמיד",
+      "price": 105,
+      "category": "Serums",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=300",
+      "salesCount": 39
+    },
+    {
+      "id": "18",
+      "name": "קרם רגליים מזין",
+      "price": 55,
+      "category": "Body",
+      "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=300",
+      "salesCount": 16
+    },
+    {
+      "id": "20",
+      "name": "קרם אנטי אייג'ינג",
+      "price": 165,
+      "category": "Face",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=300",
+      "salesCount": 48
+    },
+    {
+      "id": "21",
+      "name": "שמן גוף מבושם",
+      "price": 85,
+      "category": "Body",
+      "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=300",
+      "salesCount": 21
+    },
+    {
+      "id": "22",
+      "name": "סרום פפטידים",
+      "price": 135,
+      "category": "Serums",
+      "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=300",
+      "salesCount": 44
+    },
+    {
+      "id": "24",
+      "name": "באלם שפתיים מזין",
+      "price": 35,
+      "category": "Face",
+      "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=300",
+      "salesCount": 61
+    },
+    {
+      "id": "32de",
+      "name": "דוגמא",
+      "price": 66,
+      "category": "Face",
+      "image": "https://www.sacara.co.il/pub/media/catalog/product/cache/0c10cf84d9daea477b73908a03179de8/7/2/7290114147835-1703407933138650.jpg",
+      "salesCount": 0
+    },
+    {
+      "id": "fa36",
+      "name": "קרם מולטי ויטמין מינרלי 25 SPF ",
+      "price": 25,
+      "category": "Face",
+      "image": "https://www.sacara.co.il/pub/media/catalog/product/cache/89e96a069f9013acea2045191a9cb4f5/7/2/7290114147910-1650274615144892.jpg",
+      "salesCount": 0
+    },
+    {
+      "id": "6a31",
+      "name": "קרם פנים",
+      "price": 50,
+      "category": "Face",
+      "image": "https://cdn.dynamicyield.com/api/8769796/images/34b1fd42f5a00__moisturizers.jpg",
+      "salesCount": 0
+    }
+  ],
+  "reviews": [
+    {
+      "id": "0749",
+      "productId": "22",
+      "userName": "רחל גרינשטיין",
+      "userId": "297e",
+      "text": "מוצר מושלםםםםם\nממליצה מאד שווה כל שקלל",
+      "date": "18.2.2026"
+    },
+    {
+      "id": "341f",
+      "productId": "2",
+      "userName": "שרה לוי",
+      "userId": "e823",
+      "text": "nוצר מהמםם",
+      "date": "22.2.2026"
+    }
+  ]
+}
