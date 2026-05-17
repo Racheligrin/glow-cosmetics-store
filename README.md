@@ -1,16 +1,24 @@
-# React + Vite
+# Glow Cosmetics Store 🧴✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully featured E-commerce web application for beauty and skincare products. Built with React, Vite, and Redux Toolkit for state management.
 
-Currently, two official plugins are available:
+## 🚀 Key Features
+* **Product Catalog & Details:** Browse skincare products and view dedicated product pages with deep descriptions.
+* **State Management (Redux):** Global state handling for user authentication and session persistence using Redux Slices.
+* **User Authentication:** Complete Flow for User Registration (`Register.jsx`) and Login (`Login.jsx`).
+* **Admin Dashboard:** Secure form (`AddProduct.jsx`) allowing administrators to add new beauty products to the inventory.
+* **Mock Backend Integration:** Simulates real-world API requests fetched from a local database (`db.json`) via a dedicated service layer (`productService.js`).
+* **Advanced Styling:** Styled with SCSS for responsive, clean, and maintainable UI components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+* **Frontend:** React.js (Functional Components & Hooks)
+* **State Management:** Redux Toolkit (`userSlice`)
+* **Build Tool:** Vite
+* **Styling:** SCSS / Sass
+* **Data Mocking:** JSON Server
 
-## React Compiler
+## 📦 Installation & Setup
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository
+2. Run `npm install` to install all dependencies
+3. Start the project by running `npm run dev`
